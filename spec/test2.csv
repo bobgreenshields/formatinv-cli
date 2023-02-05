@@ -1,0 +1,66 @@
+Detail,InvAmount,Cost,VAT,VATRate,HasVAT,VATCheck,Furniture,Purpose,Ref
+Double bed 4ft6,159.00,159.00,26.50,20.00%,Yes,FALSE,Yes,Materials,StHelens203
+Sofas x 2 credit #4830,510.00,510.00,85.00,20.00%,Yes,FALSE,Yes,Materials,StHelens111
+Sofas delivery charge credit #4830,6.95,6.95,1.16,20.00%,Yes,FALSE,Yes,Materials,StHelens111
+Plastic dustbin x 3,46.76,46.76,7.79,19.99%,Yes,FALSE,,Materials,AlexandraTerr46
+Callout to washer dryer,106.80,106.80,17.80,20.00%,Yes,FALSE,,Materials,FinsburyTerr57
+Replacement locks on mastersuite,350.00,350.00,0.00,0.00%,No,TRUE,,Materials,WestburySt13
+Replace heating pump,285.24,285.24,47.54,20.00%,Yes,FALSE,,NonCISSub,GlanmorRd21
+Replace MT10 timer boiler,114.90,114.90,19.15,20.00%,Yes,FALSE,,NonCISSub,GlanbrydanAve44
+Callout to washer dryer,82.80,82.80,13.80,20.00%,Yes,FALSE,,Materials,AlexandraTerr46
+Elec/Gas,100.00,100.00,4.76,5.00%,Yes,TRUE,,Elec/Gas,StHelens015
+Washer dryer,548.99,548.99,91.50,20.00%,Yes,FALSE,Yes,Materials,AlexandraTerr46
+HMO application,"1,104.00","1,104.00",184.00,20.00%,Yes,FALSE,,Planning,AlexandraTerr46
+HMO application,"1,104.00","1,104.00",184.00,20.00%,Yes,FALSE,,Planning,GlanmorRd29
+Elec/Gas,100.00,100.00,4.76,5.00%,Yes,TRUE,,Elec/Gas,StHelens015
+Mould & mildew cleaner,10.50,10.50,1.75,20.00%,Yes,FALSE,,Materials,StHelens110
+Roller blind & plastic trim,58.80,58.80,9.80,20.00%,Yes,FALSE,,Materials,GlanbrydanAve44
+Fit prv to shower,95.39,95.39,15.90,20.00%,Yes,FALSE,,NonCISSub,StHelens203
+Washer dryer not spinning,106.80,106.80,17.80,20.00%,Yes,FALSE,,Materials,StHelens203
+Washer dryer not spinning,21.60,21.60,3.60,20.00%,Yes,FALSE,,Materials,StHelens203
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,AlexandraTerr46
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,AylesburyRd1
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,BrynmillAve10
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,FinsburyTerr57
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,GlamorganSt24
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,GlanbrydanAve44
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,GlanmorRd21
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,GlanmorRd29
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,GwydrCres44
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,MarlboroughRd1
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,RhyddingsPkRd28
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,RhyddingsPkRd30
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,RhyddingsTerr150
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,StHelens012
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,StHelens015
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,StHelens110
+Carbon monoxide monitors,27.67,27.67,4.61,19.99%,Yes,FALSE,,Materials,StHelens111
+Carbon monoxide monitors,27.68,27.68,4.62,20.03%,Yes,FALSE,,Materials,StHelens112
+Carbon monoxide monitors,27.68,27.68,4.62,20.03%,Yes,FALSE,,Materials,StHelens152
+Carbon monoxide monitors,27.68,27.68,4.62,20.03%,Yes,FALSE,,Materials,StHelens203
+Carbon monoxide monitors,27.68,27.68,4.62,20.03%,Yes,FALSE,,Materials,WestburySt13
+Replace lockshield valve boiler,118.56,118.56,19.76,20.00%,Yes,FALSE,,NonCISSub,StHelens110
+Shower handset & hose,20.00,20.00,3.33,19.98%,Yes,FALSE,,Materials,StHelens112
+Supply & fit mechanism to fire door,165.00,165.00,0.00,0.00%,No,TRUE,,Materials,GlanmorRd21
+"Washer removed blockage, fixed new door catch",118.20,118.20,19.70,20.00%,Yes,FALSE,,Materials,StHelens012
+Washer dryer door handle & catch,158.80,158.80,26.47,20.00%,Yes,FALSE,,Materials,FinsburyTerr57
+New fan oven element,158.04,158.04,26.34,20.00%,Yes,FALSE,,Materials,MarlboroughRd1
+Callout heating,78.00,78.00,13.00,20.00%,Yes,FALSE,,NonCISSub,GowerRd657
+"New shower head, new trv head",80.82,80.82,13.47,20.00%,Yes,FALSE,,NonCISSub,MarlboroughRd1
+Gas  ,49.30,49.30,2.35,5.01%,Yes,TRUE,,Elec/Gas,StHelens108
+Washer / dryer unblock drain pump,106.80,106.80,17.80,20.00%,Yes,FALSE,,Materials,StHelens203
+Elec/Gas,100.00,100.00,4.76,5.00%,Yes,TRUE,,Elec/Gas,StHelens015
+"New fan, MT10 programmer",412.69,412.69,68.78,20.00%,Yes,FALSE,,NonCISSub,StHelens015
+Washer dryer,669.00,669.00,111.50,20.00%,Yes,FALSE,Yes,Materials,StHelens015
+Callout for washer dryer door interlock,82.80,82.80,13.80,20.00%,Yes,FALSE,,Materials,StHelens015
+Credit against #4962,22.73,22.73,3.79,20.01%,Yes,FALSE,Yes,Materials,StHelens015
+Fit prv to shower,112.56,112.56,18.76,20.00%,Yes,FALSE,,NonCISSub,StHelens152
+HMO application,"1,119.00","1,119.00",186.50,20.00%,Yes,FALSE,,Planning,StHelens012
+HMO application,"1,044.00","1,044.00",174.00,20.00%,Yes,FALSE,,Planning,GlanbrydanAve44
+Toilet repair,51.00,51.00,8.50,20.00%,Yes,FALSE,,NonCISSub,GlanbrydanAve44
+Callout heating,48.00,48.00,8.00,20.00%,Yes,FALSE,,NonCISSub,GwydrCres44
+"Callout, reset thermostat",106.80,106.80,17.80,20.00%,Yes,FALSE,,Materials,GwydrCres44
+Supply & fit new motor brushes to washer,135.60,135.60,22.60,20.00%,Yes,FALSE,,Materials,StHelens111
+Replace tap glands in kitchen,54.83,54.83,9.14,20.00%,Yes,FALSE,,NonCISSub,AylesburyRd1
+"Callout, replace AAV on boiler",116.53,116.53,19.42,20.00%,Yes,FALSE,,NonCISSub,GlanmorRd21
+Fridge door seal & freezer door seal,105.15,105.15,17.53,20.01%,Yes,FALSE,,Materials,StHelens152

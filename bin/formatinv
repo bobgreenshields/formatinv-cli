@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/app'
+require_relative '../lib/parser'
+
+args = FormatInv::Parser.new.call(ARGV)
+FormatInv::App.new(args).call
